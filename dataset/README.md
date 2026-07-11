@@ -1,1 +1,1 @@
-🗂️Dataset file used in this project are stored in this folder.
+🗂️This folder contains the dataset files used in the fifa player performance analysis project.
