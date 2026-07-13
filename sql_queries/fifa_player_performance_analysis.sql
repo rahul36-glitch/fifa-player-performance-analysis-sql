@@ -2,7 +2,7 @@
 CREATE DATABASE fifa_player_performance_analysis;
 
 --create table 
-CREATE TABLE palyer_analysis(
+CREATE TABLE player_analysis(
    player_id INT PRIMARY KEY,
    player_name VARCHAR(50),
    age INT NOT NULL,
